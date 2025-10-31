@@ -1,1 +1,1 @@
-# Smaty-Traffic-signal-Using-AI
+# Smart-Traffic-signal-Using-AI
